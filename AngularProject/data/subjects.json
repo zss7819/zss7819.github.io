@@ -1,0 +1,49 @@
+[
+	{
+		"analysis":"string",
+		"answer":"",
+		"checkState":"未审核",
+		"choices":
+			[
+				{"id":3921,"content":"ghfd","correct":false},
+				{"id":3918,"content":"string","correct":true},
+				{"id":3920,"content":"gfh","correct":false},
+				{"id":3919,"content":"4","correct":false}
+			],
+		"department":{"id":2,"name":"JavaEE"},
+		"examPaper":null,
+		"id":2680,
+		"stem":"java的数据类型有？",
+		"subjectLevel":{"id":1,"name":"easy","realName":"简单"},
+		"subjectType":{"id":1,"name":"radio","realName":"单选题"},
+		"topic":
+			{
+			"department":{"id":2,"name":"JavaEE"},
+			"id":14,
+			"title":"Spring"
+			},
+		"uploadTime":"2016-09-27",
+		"user":null
+	},
+	{
+		"analysis":"( ACD )",
+		"answer":"",
+		"checkState":"未审核",
+		"choices":
+			[{"id":8546,"content":"foo(\"attr\");","correct":false},
+			{"id":8547,"content":"foo[\"attr\"]","correct":true},
+			{"id":8545,"content":"foo.attr","correct":false},
+			{"id":8548,"content":"var name = \"attr\"; foo[name]","correct":true}
+			],
+		"department":{"id":2,"name":"JavaEE"},
+		"examPaper":null,
+		"id":4748,
+		"stem":" foo对象有attr属性，以下获取attr属性的值的的做法正确的是：",
+		"subjectLevel":{"id":1,"name":"easy","realName":"简单"},
+		"subjectType":{"id":2,"name":"check","realName":"复选题"},
+		"topic":{"department":{"id":2,"name":"JavaEE"},
+		"id":10,"title":"XML"},"uploadTime":"2016-09-28",
+		"user":null
+	}
+]
+
